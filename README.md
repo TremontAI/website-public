@@ -58,13 +58,3 @@ Then visit `http://localhost:8000` in your browser.
 1.  Install Vercel CLI: `npm i -g vercel`
 2.  Run `vercel` in the `tremont-site` directory.
 3.  Follow the prompts. Vercel will automatically detect the static HTML files and deploy them globally with SSL.
-
-## Placeholders
-
-Before final launch, ensure you replace the following tokens in all files:
-- `{{YOUR_DOMAIN}}`
-- `{{LEGAL_NAME}}`
-- `{{PHONE}}`
-- `{{CITY}}`, `{{STATE}}`, `{{COUNTRY}}`
-- `{{LINKEDIN_URL}}`
-- `2025`
